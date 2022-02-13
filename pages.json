@@ -1,4 +1,7 @@
 {
+	"easycom": {
+		"^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+	},
 	"pages": [
 		{
             "path" : "pages/message/index",
@@ -41,9 +44,9 @@
 		"backgroundColor": "#F8F8F8"
 	},
 	"tabBar": {
-		"color": "#3F536E",
-		"selectedColor":"#333333",
-		"backgroundColor":"#C0C0C0",
+		"color": "#8a8a8a",
+		"selectedColor":"#333",
+		"backgroundColor":"#f8f8f8",
 		"list": [
 			{
 				"text":"比赛",

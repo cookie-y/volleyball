@@ -1,0 +1,22 @@
+{
+  "name": "volleyball",
+  "version": "1.0.0",
+  "description": "比赛报名系统-前端",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cookie-y/volleyball.git"
+  },
+  "author": "cookie-y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cookie-y/volleyball/issues"
+  },
+  "homepage": "https://github.com/cookie-y/volleyball#readme",
+  "dependencies": {
+    "uview-ui": "^2.0.27"
+  }
+}

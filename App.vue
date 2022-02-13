@@ -12,6 +12,7 @@
 	}
 </script>
 
-<style>
+<style lang="scss">
 @import url("//at.alicdn.com/t/font_2826679_u6r7krhush8.css");
+@import "uview-ui/index.scss";
 </style>

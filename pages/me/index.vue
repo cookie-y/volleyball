@@ -1,6 +1,6 @@
 <template>
 	<view>
-		
+		<u-rate :count="4" v-model="value"></u-rate>
 	</view>
 </template>
 
@@ -8,7 +8,7 @@
 	export default {
 		data() {
 			return {
-				
+				value: 1
 			}
 		},
 		methods: {
